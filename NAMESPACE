@@ -2,3 +2,4 @@
 
 export(moyenne_quadratique)
 export(remplacer_2eme_lettre)
+importFrom(stringr,str_sub)

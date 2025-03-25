@@ -1,2 +1,5 @@
 ^creation\.package\.Rproj$
 ^\.Rproj\.user$
+^docs/
+^dev_history.R
+^README\.Rmd$

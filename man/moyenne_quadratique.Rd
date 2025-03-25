@@ -7,7 +7,12 @@
 moyenne_quadratique(x, y)
 }
 \arguments{
-\item{y}{}
+\item{x}{Donnée numérique 1}
+
+\item{y}{Donnée numérique 2}
+}
+\value{
+renvoie la moyenne quadratique
 }
 \description{
 moyenne quadra
