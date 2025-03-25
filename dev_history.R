@@ -32,7 +32,7 @@ usethis::use_r("fonction_3")
 usethis::use_proprietary_license("Victoire Chatain")
 roxygen2::roxygenise()
 
-pkgdown::build_site()
+#pkgdown::build_site()
 
 usethis::use_vignette("nom_vignette")
 
@@ -43,5 +43,8 @@ usethis::use_vignette("nom_vignette")
 #usethis::use_readme_md()
     #block note
 
+usethis::use_github_action("check-release")
 
+
+#on push après
 

@@ -4,6 +4,8 @@
 # creation.package
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Victoire-Chatain/creation.package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Victoire-Chatain/creation.package/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of creation.package is to …

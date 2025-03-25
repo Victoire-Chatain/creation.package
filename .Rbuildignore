@@ -3,3 +3,4 @@
 ^docs/
 ^dev_history.R
 ^README\.Rmd$
+^\.github$
