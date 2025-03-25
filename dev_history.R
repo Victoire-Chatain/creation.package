@@ -18,3 +18,12 @@
 
 
 roxygen2::roxygenise()
+
+#install.packages("pkgdown")
+library(pkgdown)
+
+
+pkgdown::build_site()
+
+
+
