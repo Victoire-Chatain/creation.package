@@ -17,13 +17,23 @@
 #usethis::use_r("changement_lettre")
 
 
-roxygen2::roxygenise()
+
 
 #install.packages("pkgdown")
-library(pkgdown)
+#library(pkgdown)
 
+
+
+
+roxygen2::roxygenise()
 
 pkgdown::build_site()
+
+usethis::use_vignette
+
+
+
+
 
 
 
