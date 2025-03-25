@@ -45,6 +45,9 @@ usethis::use_vignette("nom_vignette")
 
 usethis::use_github_action("check-release")
 
+usethis::use_github_action("pkgdown")
+
+
 
 #on push après
 
